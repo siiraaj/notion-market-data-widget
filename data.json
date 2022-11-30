@@ -1,0 +1,29 @@
+{
+  "symbols": [
+    {
+      "description": "TotalEnergies SE",
+      "proName": "XETR:TOTB"
+    },
+    {
+      "description": "Sanofi",
+      "proName": "FWB:SNW"
+    },
+    {
+      "description": "Schneider Electric SE",
+      "proName": "XETR:SND"
+    },
+    {
+      "description": "VINCI",
+      "proName": "XETR:SQU"
+    },
+    {
+      "description": "ES",
+      "proName": "MIL:EL"
+    }
+  ],
+  "showSymbolLogo": true,
+  "colorTheme": "light",
+  "isTransparent": false,
+  "displayMode": "compact",
+  "locale": "fr"
+}
